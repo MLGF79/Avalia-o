@@ -4,8 +4,8 @@ Bem-vindo ao projeto Palomakoba!
 Vamos aprender os fundamentos do git?
 Claro!
 Qual é seu nome aluno?
-Ciclano de Tal
+Manoel Lima Garcia Filho
 De qual instituição?
-Unir
+Uniron e Unir
 Qual sua idade?
-20
+42
